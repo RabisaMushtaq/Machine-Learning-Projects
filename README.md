@@ -1,1 +1,2 @@
 # Machine-Learning-Projects
+Analyzed the Adult Census Income dataset to predict whether individuals earn more than $50K per year. The project involved data cleaning, preprocessing, and exploratory analysis to understand the impact of factors such as education, age, gender, and work hours on income. Applied and evaluated five machine learning models, Logistic Regression, Random Forest, Decision Tree, SVM, and AdaBoost, to classify income levels and identify key features influencing income distribution.
